@@ -36,18 +36,17 @@
 
 ## 🔥 Streak Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-showkat&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FF4500&ring=FF4500&currStreakNum=F1F1F1&sideNums=E2E0DE&currStreakLabel=FF4E01&sideLabels=FF5600&stroke=FF4500&fire=FE4906&dates=E5E5E5)](https://git.io/streak-stats" alt="coder-showkat" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=coder-showkat&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FF4500&ring=FF4500&currStreakNum=F1F1F1&sideNums=E2E0DE&currStreakLabel=FF4E01&sideLabels=FF5600&stroke=FF4500&fire=FE4906&dates=E5E5E5)](https://git.io/streak-stats" alt="coder-showkat" /></p>
 
 <br>
 <br>
 
 ##
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-showkat&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="coder-showkat" /></p>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=coder-showkat&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="coder-showkat" /></p>
 <br>
 <br>
 
 ##
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-showkat&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="coder-showkat" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-showkat&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="coder-showkat" /></p>
