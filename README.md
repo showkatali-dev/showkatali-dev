@@ -43,7 +43,7 @@
 
 ##
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-showkat&show_icons=true&locale=en&layout=compact" alt="coder-showkat" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=coder-showkat&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="coder-showkat" /></p>
 
 <br>
 <br>
