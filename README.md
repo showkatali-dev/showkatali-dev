@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Showkat Ali</h1>
-<h3 align="center">A textile engineer but passionate MERN-stack developer from Bangladesh</h3>
+<h3 align="center">A MERN-stack web developer from Bangladesh</h3>
 
 <br><br>
 
@@ -7,15 +7,13 @@
 
 <br>
 
-- 🔭 I’m currently studying at Programming Hero **Web Development**
+- 🔭 Self taught Programmer with proficiency in **MERN stack**
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **react, node, express**
+- 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **showkat.coder@gmail.com**
-
-- ⚡ Fun fact **I am funny.**
+- 📫 How to reach me **showkatali.dev@gmail.com**
 
 <br>
 
