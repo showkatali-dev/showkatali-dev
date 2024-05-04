@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Showkat Ali</h1>
-<h3 align="center">A MERN-stack web developer from Bangladesh</h3>
+<h3 align="center">A Full Stack Web Devoloper from Bangladesh</h3>
 
 <br><br>
 
