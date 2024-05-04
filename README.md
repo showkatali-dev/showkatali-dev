@@ -7,11 +7,11 @@
 
 <br>
 
-- 🔭 Self taught Programmer with proficiency in **MERN stack**
+- 🔭 Knows **Full Stack Web Development**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently working as a **Software Engineer**(Frontend) at **Innovate Solution**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Full Stack Web Development**
 
 - 📫 How to reach me **showkatali.dev@gmail.com**
 
